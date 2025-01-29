@@ -1,7 +1,7 @@
 # 📌 Spiromed - Open-Source Spirometer
 
 ## 📖 Overview
-Spiromed is an open-source **spirometer** designed to measure lung function. It consists of a **mobile application** and **embedded hardware** for real-time data acquisition and visualization. The system is developed using **MIT App Inventor** for the mobile interface and **Arduino** for sensor integration.
+Spiromed is a project developed by students from the Electronic Engineering course at **UTFPR-TOLEDO**. It involves the development of a **low-cost spirometer** for preliminary examinations. The system consists of a **mobile application** and **embedded hardware** for real-time data acquisition and visualization. The mobile interface is developed using **MIT App Inventor**, while the **Arduino** processes sensor data.
 
 ## ✨ Features
 - 📱 **Android App** – A user-friendly interface developed in **MIT App Inventor**.
@@ -33,6 +33,9 @@ Spiromed is an open-source **spirometer** designed to measure lung function. It 
 - **Venturi tube & pressure sensors** collect airflow data.
 - **Arduino processes sensor readings** and transmits values via Bluetooth.
 - **Mobile app** receives, processes, and displays results in real time.
+
+## 🎥 Project Video
+Watch the video about Spiromed: [Spiromed Project Video](https://www.youtube.com/watch?v=qOtfVPVnC1U)
 
 ## 📜 License
 This project is open-source and available under the **MIT License**.
